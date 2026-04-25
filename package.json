@@ -1,0 +1,9 @@
+{
+  "name": "saurabh-portfolio-proxy",
+  "version": "1.0.0",
+  "description": "Vercel proxy for Ask Saurabh chatbot",
+  "private": true,
+  "engines": {
+    "node": ">=18"
+  }
+}
